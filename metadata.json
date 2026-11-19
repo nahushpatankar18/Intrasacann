@@ -1,0 +1,6 @@
+{
+  "name": "IntraScan - NSE Intraday Probability & Scoreboard",
+  "description": "Personal quantitative analysis and daily walk-forward probability ranking tool for Nifty 50 stocks with immutable pre-market prediction logging and outcome tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
